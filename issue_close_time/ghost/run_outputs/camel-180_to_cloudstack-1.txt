@@ -1,0 +1,1964 @@
+2020-08-21 18:53:54.144379: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-08-21 18:53:55.110615: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libnvinfer.so.6
+2020-08-21 18:53:55.112205: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libnvinfer_plugin.so.6
+Using TensorFlow backend.
+11224 positive samples out of 14528 samples
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cd3d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cda50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cdc50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cdd10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cddd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cde90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cdf50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cded0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55394cde10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5539339e50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5539339ed0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5539339f10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5539339f90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d210>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d2d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d390>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d450>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d510>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d5d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d690>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d810>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d8d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969d990>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969da50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969db10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969dbd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969dc90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969dd50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969de10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969ded0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969df90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969df50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f553969df10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9210>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a92d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9390>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9450>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9510>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a95d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9690>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9810>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a98d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9990>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9a50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9b10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9bd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9c90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9d50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f55396a9e10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+0
+2020-08-21 18:54:04.175632: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2020-08-21 18:54:04.787689: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:04.788454: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties: 
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2020-08-21 18:54:04.788549: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-08-21 18:54:04.788678: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-08-21 18:54:04.851060: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-08-21 18:54:04.877113: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-08-21 18:54:04.976570: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-08-21 18:54:04.992200: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-08-21 18:54:04.992390: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-08-21 18:54:04.992591: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:04.993385: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:04.994034: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+2020-08-21 18:54:05.021381: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2200000000 Hz
+2020-08-21 18:54:05.021789: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ab981d6f10 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-08-21 18:54:05.021823: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+2020-08-21 18:54:05.290174: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:05.290975: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55ab9824d410 initialized for platform CUDA (this does not guarantee that XLA will be used). Devices:
+2020-08-21 18:54:05.291014: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Tesla P100-PCIE-16GB, Compute Capability 6.0
+2020-08-21 18:54:05.298188: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:05.298877: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1555] Found device 0 with properties: 
+pciBusID: 0000:00:04.0 name: Tesla P100-PCIE-16GB computeCapability: 6.0
+coreClock: 1.3285GHz coreCount: 56 deviceMemorySize: 15.90GiB deviceMemoryBandwidth: 681.88GiB/s
+2020-08-21 18:54:05.298975: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-08-21 18:54:05.299026: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2020-08-21 18:54:05.299077: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcufft.so.10
+2020-08-21 18:54:05.299118: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcurand.so.10
+2020-08-21 18:54:05.299155: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusolver.so.10
+2020-08-21 18:54:05.299192: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcusparse.so.10
+2020-08-21 18:54:05.299227: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+2020-08-21 18:54:05.299320: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:05.300071: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:05.300705: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1697] Adding visible gpu devices: 0
+2020-08-21 18:54:05.302355: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudart.so.10.1
+2020-08-21 18:54:10.686892: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1096] Device interconnect StreamExecutor with strength 1 edge matrix:
+2020-08-21 18:54:10.686986: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1102]      0 
+2020-08-21 18:54:10.687001: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1115] 0:   N 
+2020-08-21 18:54:10.689079: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:10.689885: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:981] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2020-08-21 18:54:10.690552: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1241] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15087 MB memory) -> physical GPU (device: 0, name: Tesla P100-PCIE-16GB, pci bus id: 0000:00:04.0, compute capability: 6.0)
+2020-08-21 18:54:12.095051: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+normalizeU|rf
+1
+maxabsZ|rf
+2
+robusth|rf
+3
+normalizeb|rf
+4
+maxabsD|rf
+5
+standardizeI|rf
+6
+normalizeG|rf
+7
+robustt|rf
+8
+maxabst|rf
+9
+robustR|rf
+10
+maxabsF|rf
+11
+minmaxc|rf
+12
+standardizea|rf
+13
+normalizeK|rf
+14
+maxabsa|rf
+15
+standardizez|rf
+16
+minmaxk|rf
+17
+standardizeb|rf
+18
+robusty|rf
+19
+standardizeC|rf
+20
+normalizeL|rf
+21
+normalizel|rf
+22
+robustn|rf
+23
+standardizeB|rf
+24
+robustE|rf
+25
+standardizeF|rf
+26
+robustk|rf
+27
+robustz|rf
+28
+normalizey|rf
+29
+standardizek|rf
+0
+maxabsg|rf
+1
+standardizec|rf
+2
+standardizeg|rf
+3
+normalizeO|rf
+4
+normalizeG|rf
+5
+standardizeT|rf
+6
+maxabsp|rf
+7
+standardizeW|rf
+8
+maxabsN|rf
+9
+minmaxE|rf
+10
+maxabso|rf
+11
+normalizea|rf
+12
+minmaxa|rf
+13
+maxabsO|rf
+14
+minmaxA|rf
+15
+normalizeC|rf
+16
+robustS|rf
+17
+maxabsr|rf
+18
+robustc|rf
+19
+robustz|rf
+20
+standardizey|rf
+21
+normalizec|rf
+22
+standardizeb|rf
+23
+maxabsH|rf
+24
+minmaxZ|rf
+25
+maxabsd|rf
+26
+standardizeZ|rf
+27
+normalizee|rf
+28
+maxabsI|rf
+29
+maxabsS|rf
+0
+robustr|rf
+1
+standardizeo|rf
+2
+maxabsg|rf
+3
+normalizew|rf
+4
+normalizeh|rf
+5
+robusti|rf
+6
+maxabsb|rf
+7
+robustX|rf
+8
+robustI|rf
+9
+maxabsm|rf
+10
+standardizeG|rf
+11
+minmaxJ|rf
+12
+maxabsv|rf
+13
+minmaxR|rf
+14
+robustl|rf
+15
+robustM|rf
+16
+robustx|rf
+17
+minmaxm|rf
+18
+maxabsD|rf
+19
+robusts|rf
+20
+maxabsS|rf
+21
+minmaxr|rf
+22
+minmaxj|rf
+23
+normalizeV|rf
+24
+minmaxu|rf
+25
+robustk|rf
+26
+maxabso|rf
+27
+normalizeS|rf
+28
+standardizee|rf
+29
+robustw|rf
+0
+robustO|rf
+1
+maxabsW|rf
+2
+maxabsS|rf
+3
+normalizec|rf
+4
+minmaxU|rf
+5
+robustZ|rf
+6
+normalizeF|rf
+7
+maxabsm|rf
+8
+minmaxv|rf
+9
+minmaxL|rf
+10
+minmaxA|rf
+11
+normalizex|rf
+12
+normalizeC|rf
+13
+standardizei|rf
+14
+robustC|rf
+15
+maxabsI|rf
+16
+standardizeU|rf
+17
+robustE|rf
+18
+minmaxm|rf
+19
+minmaxR|rf
+20
+maxabsa|rf
+21
+minmaxs|rf
+22
+maxabsC|rf
+23
+robustU|rf
+24
+minmaxl|rf
+25
+robustM|rf
+26
+normalizeD|rf
+27
+normalizeA|rf
+28
+minmaxx|rf
+29
+normalizet|rf
+0
+maxabsx|rf
+1
+minmaxb|rf
+2
+maxabsg|rf
+3
+normalizeS|rf
+4
+normalizen|rf
+5
+standardizek|rf
+6
+minmaxX|rf
+7
+standardizeA|rf
+8
+robustR|rf
+9
+standardizet|rf
+10
+robustZ|rf
+11
+robustb|rf
+12
+robustV|rf
+13
+maxabsT|rf
+14
+robustN|rf
+15
+maxabsk|rf
+16
+normalizea|rf
+17
+minmaxw|rf
+18
+maxabsE|rf
+19
+standardizen|rf
+20
+normalizeE|rf
+21
+robustw|rf
+22
+standardizeH|rf
+23
+robustC|rf
+24
+normalizeG|rf
+25
+standardizec|rf
+26
+normalizeq|rf
+27
+minmaxA|rf
+28
+maxabsI|rf
+29
+minmaxx|rf
+0
+standardizeg|rf
+1
+robusto|rf
+2
+standardizeF|rf
+3
+minmaxb|rf
+4
+normalizeH|rf
+5
+normalizel|rf
+6
+maxabsc|rf
+7
+maxabsA|rf
+8
+minmaxh|rf
+9
+maxabsx|rf
+10
+standardizel|rf
+11
+standardizex|rf
+12
+robustC|rf
+13
+normalizeX|rf
+14
+minmaxH|rf
+15
+minmaxx|rf
+16
+maxabse|rf
+17
+standardizeI|rf
+18
+robustU|rf
+19
+robusts|rf
+20
+robustZ|rf
+21
+robustF|rf
+22
+standardizej|rf
+23
+robusta|rf
+24
+normalizeU|rf
+25
+standardizeY|rf
+26
+standardizeD|rf
+27
+maxabsp|rf
+28
+robustM|rf
+29
+normalizeB|rf
+0
+robustP|rf
+1
+normalizep|rf
+2
+normalizeq|rf
+3
+minmaxA|rf
+4
+robustH|rf
+5
+normalizeH|rf
+6
+robustX|rf
+7
+robustW|rf
+8
+standardizen|rf
+9
+standardizeH|rf
+10
+normalizez|rf
+11
+normalizeo|rf
+12
+minmaxg|rf
+13
+normalizeD|rf
+14
+standardizel|rf
+15
+maxabsL|rf
+16
+normalizet|rf
+17
+standardizeN|rf
+18
+normalizeS|rf
+19
+maxabsQ|rf
+20
+maxabsB|rf
+21
+minmaxi|rf
+22
+robustl|rf
+23
+robustT|rf
+24
+maxabsv|rf
+25
+robustV|rf
+26
+minmaxl|rf
+27
+maxabsf|rf
+28
+minmaxj|rf
+29
+normalizeT|rf
+0
+minmaxr|rf
+1
+normalizeG|rf
+2
+normalizeM|rf
+3
+normalizeU|rf
+4
+minmaxc|rf
+5
+minmaxN|rf
+6
+maxabsb|rf
+7
+maxabsc|rf
+8
+normalizeW|rf
+9
+minmaxu|rf
+10
+robustT|rf
+11
+standardizeK|rf
+12
+robustN|rf
+13
+robustE|rf
+14
+robustJ|rf
+15
+minmaxS|rf
+16
+standardizeQ|rf
+17
+maxabsP|rf
+18
+normalizeH|rf
+19
+maxabsZ|rf
+20
+minmaxt|rf
+21
+maxabsa|rf
+22
+maxabsM|rf
+23
+normalizet|rf
+24
+minmaxp|rf
+25
+robustX|rf
+26
+standardizeh|rf
+27
+standardizer|rf
+28
+minmaxa|rf
+29
+minmaxV|rf
+0
+normalizem|rf
+1
+minmaxO|rf
+2
+robustW|rf
+3
+minmaxq|rf
+4
+standardizeI|rf
+5
+minmaxU|rf
+6
+minmaxj|rf
+7
+normalizew|rf
+8
+normalizeX|rf
+9
+standardizeW|rf
+10
+normalizev|rf
+11
+maxabsn|rf
+12
+maxabsm|rf
+13
+standardizes|rf
+14
+robustl|rf
+15
+maxabsO|rf
+16
+minmaxl|rf
+17
+robustr|rf
+18
+maxabsd|rf
+19
+normalizey|rf
+20
+minmaxS|rf
+21
+maxabsB|rf
+22
+maxabsI|rf
+23
+robustd|rf
+24
+normalizer|rf
+25
+minmaxM|rf
+26
+standardizep|rf
+27
+normalizeG|rf
+28
+standardizeU|rf
+29
+normalizeP|rf
+0
+normalizeg|rf
+1
+minmaxQ|rf
+2
+normalizeP|rf
+3
+maxabsT|rf
+4
+maxabsJ|rf
+5
+robustR|rf
+6
+normalizeM|rf
+7
+robusth|rf
+8
+standardizeV|rf
+9
+robuste|rf
+10
+minmaxk|rf
+11
+standardizeX|rf
+12
+minmaxg|rf
+13
+minmaxq|rf
+14
+minmaxO|rf
+15
+maxabsr|rf
+16
+minmaxG|rf
+17
+maxabsW|rf
+18
+robustW|rf
+19
+normalizeK|rf
+20
+normalizeE|rf
+21
+normalizeS|rf
+22
+minmaxu|rf
+23
+standardizet|rf
+24
+robustg|rf
+25
+maxabsY|rf
+26
+maxabsB|rf
+27
+minmaxi|rf
+28
+maxabst|rf
+29
+minmaxh|rf
+10822 positive samples out of 13068 samples
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50b634a2d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50b64f2710>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50a22c00d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab1355d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ba4bbc50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa37fd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa37190>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa37dd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa37750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa370d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab1b01d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab15b990>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5072131c90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50721318d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50a22c9ad0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5072131f10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5072131dd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa41ad0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa41d50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa41990>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa41250>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5071e3ad50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5071e3ae50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50a3594e50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5071e3a950>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab11b750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab11b290>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab128bd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab128ad0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa44d90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa44310>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa446d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa44210>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507fa44c50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab17d0d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50973dc2d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50720ab950>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50720aba50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab151f10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50973442d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab1be150>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50ab1be210>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509c7dd110>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509c7dd690>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509c7dd210>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509c7dde10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509c7dd850>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507214cb50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507214c390>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507214c890>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507214c610>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+0
+maxabsg|rf
+1
+robustu|rf
+2
+maxabsW|rf
+3
+normalizey|rf
+4
+normalizeo|rf
+5
+minmaxN|rf
+6
+maxabsa|rf
+7
+standardizeJ|rf
+8
+normalizer|rf
+9
+normalizeg|rf
+10
+minmaxo|rf
+11
+minmaxu|rf
+12
+standardizeD|rf
+13
+standardizei|rf
+14
+standardizeY|rf
+15
+maxabsl|rf
+16
+minmaxp|rf
+17
+robustr|rf
+18
+minmaxV|rf
+19
+robustc|rf
+20
+normalizeU|rf
+21
+normalizeL|rf
+22
+standardizeH|rf
+23
+robustP|rf
+24
+standardizev|rf
+25
+robuste|rf
+26
+minmaxi|rf
+27
+robustY|rf
+28
+normalizeX|rf
+29
+minmaxx|rf
+0
+robustM|rf
+1
+minmaxA|rf
+2
+robusth|rf
+3
+robustj|rf
+4
+standardizek|rf
+5
+standardizeb|rf
+6
+robusty|rf
+7
+maxabst|rf
+8
+maxabsX|rf
+9
+robustl|rf
+10
+standardizev|rf
+11
+standardizeG|rf
+12
+robustt|rf
+13
+normalizeI|rf
+14
+robusti|rf
+15
+robustr|rf
+16
+minmaxk|rf
+17
+standardizej|rf
+18
+normalizeO|rf
+19
+maxabsI|rf
+20
+maxabsm|rf
+21
+standardizeA|rf
+22
+normalizeq|rf
+23
+robusts|rf
+24
+maxabsA|rf
+25
+robustx|rf
+26
+minmaxE|rf
+27
+standardizew|rf
+28
+standardizeS|rf
+29
+maxabsn|rf
+0
+minmaxK|rf
+1
+robustr|rf
+2
+maxabsU|rf
+3
+minmaxm|rf
+4
+normalizeg|rf
+5
+standardizew|rf
+6
+minmaxO|rf
+7
+standardizeQ|rf
+8
+minmaxA|rf
+9
+standardizeb|rf
+10
+maxabsA|rf
+11
+normalizeK|rf
+12
+robustP|rf
+13
+minmaxH|rf
+14
+standardizeN|rf
+15
+minmaxl|rf
+16
+maxabsP|rf
+17
+maxabsp|rf
+18
+normalizeu|rf
+19
+maxabsV|rf
+20
+normalizeZ|rf
+21
+maxabso|rf
+22
+normalizex|rf
+23
+robustn|rf
+24
+maxabsC|rf
+25
+normalizeJ|rf
+26
+normalizej|rf
+27
+normalizeG|rf
+28
+normalizer|rf
+29
+maxabse|rf
+0
+minmaxC|rf
+1
+normalizeP|rf
+2
+normalizea|rf
+3
+standardizez|rf
+4
+normalizef|rf
+5
+standardizeV|rf
+6
+normalizeI|rf
+7
+maxabsq|rf
+8
+standardizer|rf
+9
+maxabsX|rf
+10
+maxabsd|rf
+11
+normalizeq|rf
+12
+minmaxg|rf
+13
+maxabsF|rf
+14
+minmaxL|rf
+15
+robustI|rf
+16
+standardizeW|rf
+17
+minmaxK|rf
+18
+normalizeE|rf
+19
+normalizen|rf
+20
+maxabsk|rf
+21
+maxabsa|rf
+22
+minmaxc|rf
+23
+robusti|rf
+24
+maxabsh|rf
+25
+normalizeW|rf
+26
+standardizeM|rf
+27
+standardizeg|rf
+28
+normalizet|rf
+29
+minmaxU|rf
+0
+robustG|rf
+1
+robustI|rf
+2
+minmaxz|rf
+3
+minmaxO|rf
+4
+normalizeM|rf
+5
+robustM|rf
+6
+maxabsF|rf
+7
+minmaxh|rf
+8
+robustP|rf
+9
+robustc|rf
+10
+robustH|rf
+11
+minmaxN|rf
+12
+maxabss|rf
+13
+normalizez|rf
+14
+standardizeu|rf
+15
+minmaxY|rf
+16
+standardizeo|rf
+17
+normalizeg|rf
+18
+maxabsv|rf
+19
+robustz|rf
+20
+robusty|rf
+21
+standardizeS|rf
+22
+minmaxV|rf
+23
+normalizea|rf
+24
+minmaxA|rf
+25
+normalizeD|rf
+26
+robustY|rf
+27
+robustu|rf
+28
+normalizeN|rf
+29
+robustR|rf
+0
+maxabsJ|rf
+1
+normalizeE|rf
+2
+standardizeA|rf
+3
+minmaxm|rf
+4
+normalizeX|rf
+5
+maxabst|rf
+6
+standardizev|rf
+7
+maxabsF|rf
+8
+normalizeO|rf
+9
+robustZ|rf
+10
+minmaxW|rf
+11
+robustt|rf
+12
+standardizer|rf
+13
+robustL|rf
+14
+normalizeV|rf
+15
+minmaxq|rf
+16
+normalizeY|rf
+17
+maxabsX|rf
+18
+normalizer|rf
+19
+maxabsi|rf
+20
+standardizeh|rf
+21
+standardizeq|rf
+22
+minmaxk|rf
+23
+maxabsH|rf
+24
+minmaxQ|rf
+25
+standardized|rf
+26
+minmaxV|rf
+27
+normalizee|rf
+28
+normalizeW|rf
+29
+standardizeb|rf
+0
+robustt|rf
+1
+robustf|rf
+2
+robustg|rf
+3
+normalizeY|rf
+4
+robustn|rf
+5
+robustT|rf
+6
+normalizeF|rf
+7
+normalizeJ|rf
+8
+normalizeG|rf
+9
+robustS|rf
+10
+maxabsc|rf
+11
+minmaxK|rf
+12
+minmaxA|rf
+13
+standardizeA|rf
+14
+minmaxM|rf
+15
+robustX|rf
+16
+minmaxF|rf
+17
+normalizeM|rf
+18
+robustr|rf
+19
+minmaxQ|rf
+20
+minmaxp|rf
+21
+robustB|rf
+22
+normalizew|rf
+23
+minmaxX|rf
+24
+maxabsO|rf
+25
+minmaxg|rf
+26
+maxabst|rf
+27
+robustQ|rf
+28
+minmaxl|rf
+29
+robustc|rf
+0
+maxabsB|rf
+1
+robustt|rf
+2
+standardizer|rf
+3
+robustr|rf
+4
+maxabss|rf
+5
+maxabsU|rf
+6
+minmaxd|rf
+7
+standardized|rf
+8
+normalizeQ|rf
+9
+robustO|rf
+10
+minmaxJ|rf
+11
+robustX|rf
+12
+normalizeg|rf
+13
+standardizev|rf
+14
+minmaxn|rf
+15
+standardizeR|rf
+16
+minmaxN|rf
+17
+normalizeL|rf
+18
+normalizeo|rf
+19
+standardizea|rf
+20
+minmaxo|rf
+21
+robustG|rf
+22
+maxabsu|rf
+23
+maxabsZ|rf
+24
+standardizeZ|rf
+25
+robusto|rf
+26
+minmaxB|rf
+27
+robustx|rf
+28
+standardizeQ|rf
+29
+normalizeY|rf
+0
+standardizec|rf
+1
+normalizeY|rf
+2
+maxabsG|rf
+3
+standardizee|rf
+4
+maxabsP|rf
+5
+minmaxg|rf
+6
+maxabsv|rf
+7
+normalizeW|rf
+8
+robustV|rf
+9
+normalizem|rf
+10
+minmaxs|rf
+11
+normalizeB|rf
+12
+robustE|rf
+13
+minmaxH|rf
+14
+standardizeY|rf
+15
+maxabsj|rf
+16
+maxabsR|rf
+17
+maxabsU|rf
+18
+normalizeE|rf
+19
+normalizes|rf
+20
+robustX|rf
+21
+normalizek|rf
+22
+minmaxJ|rf
+23
+standardizeb|rf
+24
+normalizeX|rf
+25
+robustp|rf
+26
+standardizeK|rf
+27
+standardizeT|rf
+28
+minmaxC|rf
+29
+robustt|rf
+0
+robustE|rf
+1
+robustu|rf
+2
+normalizeR|rf
+3
+normalizel|rf
+4
+maxabsL|rf
+5
+robusto|rf
+6
+minmaxX|rf
+7
+minmaxu|rf
+8
+normalizej|rf
+9
+robustV|rf
+10
+normalizeF|rf
+11
+standardizeM|rf
+12
+standardizeK|rf
+13
+robustf|rf
+14
+normalizex|rf
+15
+robustd|rf
+16
+minmaxK|rf
+17
+minmaxn|rf
+18
+maxabsk|rf
+19
+minmaxy|rf
+20
+maxabsu|rf
+21
+maxabsr|rf
+22
+robustD|rf
+23
+normalizen|rf
+24
+robustR|rf
+25
+robustN|rf
+26
+maxabsX|rf
+27
+robustv|rf
+28
+minmaxO|rf
+29
+maxabsh|rf
+3395 positive samples out of 4073 samples
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5064304b50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f507942bf50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50640c84d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509f0f5f50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042931c90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504298fa10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f505a3ee850>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504298f590>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504298f150>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f505a502850>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50445381d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 10, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5044538050>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50445389d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504452cb10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504452c990>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504452ced0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f503ee7f450>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f503ee7ffd0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042980590>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f509f0ef710>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042980610>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed6cd90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed6cc90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed6cb90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed6c1d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed6c950>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042925890>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042925050>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042925650>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50429258d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042972310>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042972e90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042972f90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042972750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5f810>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 12, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5f850>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 2, 'n_units': 11, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5f310>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5fed0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5f710>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ec5fd90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 20, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5058d66850>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 18, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5058d66750>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042976050>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 16, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f50429768d0>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 3, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f5042976290>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 14, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504296e110>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 6, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504296e410>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 17, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f504296ec10>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 13, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed7c090>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 4, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed7ca90>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 19, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'activation': 'relu', 'learner': <learners.feedforward.FeedforwardDL object at 0x7f502ed7cc50>, 'loss': 'binary_crossentropy', 'n_epochs': 100, 'n_layers': 5, 'n_units': 15, 'name': 'rf', 'optimizer': 'adam', 'random': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'random_map': {'n_layers': (2, 6), 'n_units': (10, 20)}, 'verbose': 0, 'weighted': 0.5, 'wfo': False, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+0
+robustF|rf
+1
+robustm|rf
+2
+maxabsO|rf
+3
+robustu|rf
+4
+normalizeD|rf
+5
+minmaxa|rf
+6
+maxabsH|rf
+7
+maxabsN|rf
+8
+minmaxJ|rf
+9
+robustw|rf
+10
+minmaxT|rf
+11
+minmaxG|rf
+12
+minmaxV|rf
+13
+maxabsk|rf
+14
+minmaxu|rf
+15
+standardizep|rf
+16
+minmaxZ|rf
+17
+robustU|rf
+18
+standardizeA|rf
+19
+robustk|rf
+20
+maxabsi|rf
+21
+maxabsl|rf
+22
+maxabsw|rf
+23
+standardizef|rf
+24
+minmaxn|rf
+25
+minmaxb|rf
+26
+robustl|rf
+27
+minmaxj|rf
+28
+minmaxN|rf
+29
+normalizeW|rf
+0
+standardizeq|rf
+1
+maxabsh|rf
+2
+normalizeB|rf
+3
+minmaxh|rf
+4
+robustq|rf
+5
+maxabsI|rf
+6
+robustL|rf
+7
+minmaxe|rf
+8
+normalizeT|rf
+9
+maxabsJ|rf
+10
+robustN|rf
+11
+normalizeE|rf
+12
+robustE|rf
+13
+maxabsq|rf
+14
+maxabsf|rf
+15
+robustV|rf
+16
+normalizee|rf
+17
+normalizeb|rf
+18
+maxabsN|rf
+19
+normalizeL|rf
+20
+minmaxs|rf
+21
+robustR|rf
+22
+robustZ|rf
+23
+minmaxW|rf
+24
+maxabsY|rf
+25
+minmaxA|rf
+26
+normalizev|rf
+27
+robustm|rf
+28
+maxabsS|rf
+29
+standardizei|rf
+0
+minmaxU|rf
+1
+maxabsA|rf
+2
+standardizet|rf
+3
+standardizeI|rf
+4
+robustO|rf
+5
+minmaxp|rf
+6
+maxabsd|rf
+7
+standardizeZ|rf
+8
+minmaxC|rf
+9
+robustz|rf
+10
+normalizef|rf
+11
+minmaxN|rf
+12
+minmaxn|rf
+13
+normalizew|rf
+14
+maxabsw|rf
+15
+maxabsm|rf
+16
+minmaxG|rf
+17
+minmaxg|rf
+18
+minmaxm|rf
+19
+robustY|rf
+20
+standardizeT|rf
+21
+normalizen|rf
+22
+normalizel|rf
+23
+normalizeZ|rf
+24
+maxabsf|rf
+25
+robustI|rf
+26
+robustt|rf
+27
+minmaxP|rf
+28
+normalizeX|rf
+29
+minmaxh|rf
+0
+minmaxI|rf
+1
+minmaxk|rf
+2
+minmaxi|rf
+3
+normalizeI|rf
+4
+robustz|rf
+5
+normalizey|rf
+6
+maxabsO|rf
+7
+standardizeP|rf
+8
+robustY|rf
+9
+minmaxe|rf
+10
+normalizew|rf
+11
+maxabsJ|rf
+12
+normalizek|rf
+13
+minmaxR|rf
+14
+standardizeT|rf
+15
+standardizew|rf
+16
+robustK|rf
+17
+minmaxq|rf
+18
+standardizeo|rf
+19
+normalizeQ|rf
+20
+minmaxP|rf
+21
+robustG|rf
+22
+standardizes|rf
+23
+maxabsD|rf
+24
+standardizeI|rf
+25
+robustP|rf
+26
+maxabsp|rf
+27
+maxabsh|rf
+28
+minmaxp|rf
+29
+maxabsH|rf
+0
+robustL|rf
+1
+standardizeo|rf
+2
+normalizeP|rf
+3
+minmaxz|rf
+4
+standardizeT|rf
+5
+normalizeh|rf
+6
+maxabsO|rf
+7
+robustT|rf
+8
+standardizew|rf
+9
+standardizet|rf
+10
+robustp|rf
+11
+standardizem|rf
+12
+standardizeL|rf
+13
+minmaxF|rf
+14
+maxabsL|rf
+15
+standardizen|rf
+16
+standardizeM|rf
+17
+standardizeq|rf
+18
+minmaxX|rf
+19
+maxabsh|rf
+20
+minmaxI|rf
+21
+maxabsr|rf
+22
+robuste|rf
+23
+normalizeQ|rf
+24
+standardizev|rf
+25
+standardizeX|rf
+26
+robustx|rf
+27
+standardizeQ|rf
+28
+normalizeM|rf
+29
+minmaxZ|rf
+0
+robustR|rf
+1
+robusty|rf
+2
+standardizez|rf
+3
+robustH|rf
+4
+minmaxn|rf
+5
+standardizeo|rf
+6
+standardizeD|rf
+7
+maxabsN|rf
+8
+normalizeN|rf
+9
+robustw|rf
+10
+minmaxl|rf
+11
+minmaxp|rf
+12
+standardizef|rf
+13
+standardizeA|rf
+14
+standardizeF|rf
+15
+minmaxY|rf
+16
+maxabso|rf
+17
+maxabsM|rf
+18
+robustG|rf
+19
+standardizeG|rf
+20
+minmaxv|rf
+21
+minmaxa|rf
+22
+robustv|rf
+23
+robustr|rf
+24
+standardizen|rf
+25
+robustc|rf
+26
+normalized|rf
+27
+robustW|rf
+28
+robustk|rf
+29
+minmaxf|rf
+0
+minmaxp|rf
+1
+minmaxv|rf
+2
+normalizeB|rf
+3
+standardizeF|rf
+4
+standardizey|rf
+5
+maxabsc|rf
+6
+normalizem|rf
+7
+maxabsb|rf
+8
+maxabsA|rf
+9
+standardizec|rf
+10
+minmaxs|rf
+11
+maxabsp|rf
+12
+robustj|rf
+13
+robustJ|rf
+14
+normalizeX|rf
+15
+maxabsO|rf
+16
+maxabsi|rf
+17
+robustB|rf
+18
+maxabsv|rf
+19
+minmaxU|rf
+20
+normalizek|rf
+21
+normalizeI|rf
+22
+standardizeq|rf
+23
+robustE|rf
+24
+normalizeZ|rf
+25
+normalizeU|rf
+26
+robustk|rf
+27
+robustD|rf
+28
+normalizeQ|rf
+29
+normalizew|rf
+0
+normalizeA|rf
+1
+normalizeU|rf
+2
+maxabsU|rf
+3
+normalizer|rf
+4
+minmaxq|rf
+5
+maxabsh|rf
+6
+standardizeI|rf
+7
+maxabsx|rf
+8
+standardizeU|rf
+9
+maxabsw|rf
+10
+normalizen|rf
+11
+normalizeS|rf
+12
+minmaxD|rf
+13
+robustE|rf
+14
+robustT|rf
+15
+minmaxG|rf
+16
+minmaxO|rf
+17
+maxabsC|rf
+18
+minmaxR|rf
+19
+normalizeW|rf
+20
+standardizeg|rf
+21
+minmaxP|rf
+22
+robustf|rf
+23
+maxabsI|rf
+24
+minmaxw|rf
+25
+normalizeZ|rf
+26
+standardizeq|rf
+27
+maxabsM|rf
+28
+minmaxF|rf
+29
+minmaxc|rf
+0
+minmaxI|rf
+1
+minmaxW|rf
+2
+minmaxT|rf
+3
+standardizeH|rf
+4
+standardizex|rf
+5
+normalizep|rf
+6
+robustF|rf
+7
+minmaxc|rf
+8
+normalizeb|rf
+9
+maxabsd|rf
+10
+robustt|rf
+11
+standardizer|rf
+12
+minmaxK|rf
+13
+minmaxk|rf
+14
+normalizez|rf
+15
+robustq|rf
+16
+minmaxR|rf
+17
+robusts|rf
+18
+normalizeK|rf
+19
+standardizeu|rf
+20
+minmaxw|rf
+21
+maxabsn|rf
+22
+normalizeA|rf
+23
+normalizeM|rf
+24
+maxabsh|rf
+25
+standardizea|rf
+26
+normalizej|rf
+27
+standardizew|rf
+28
+minmaxm|rf
+29
+normalizee|rf
+0
+robustp|rf
+1
+standardizeg|rf
+2
+standardizeB|rf
+3
+robustK|rf
+4
+normalizeE|rf
+5
+minmaxG|rf
+6
+robustL|rf
+7
+standardizel|rf
+8
+normalizeK|rf
+9
+maxabsf|rf
+10
