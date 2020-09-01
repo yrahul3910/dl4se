@@ -30,7 +30,7 @@ There is a lot of variety in the venues published in. The top few (16.8%) are ar
 
 In collating this, several architectures were merged to prevent the prevalance of "special snowflake" architectures. Therefore, encoder-decoder and autoencoder models, along with language models, were combined into Sequence models; multi-layer perceptron models were combined into Feedforward networks. After doing this, it is clear that most of the work (55.9%) seems to use sequence models; this is partly due to the significant number of papers in language-related tasks.
 
-![arch](./Type of deep learner used.svg)
+![arch](https://raw.githubusercontent.com/yrahul3910/dl4se/master/lit-review/Type%20of%20deep%20learner%20used.svg)
 
 ## SE Tasks
 
