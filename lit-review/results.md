@@ -6,19 +6,19 @@ This is based on [98 papers](./DL4SE lit review.xlsx).
 
 64% do no tuning at all.
 
-![tuning](./Hyperparameter tuning.svg)
+![tuning](https://raw.githubusercontent.com/yrahul3910/dl4se/master/lit-review/Hyperparameter%20tuning.svg)
 
 ## Comparing to non-DL
 
 The majority (59.2%) do compare against non-DL, but most of these papers are in language processing or language modeling domains, where there were very few prior DL state of the art results in software engineering.
 
-![compare](./Papers comparing to non-DL.svg)
+![compare](https://raw.githubusercontent.com/yrahul3910/dl4se/master/lit-review/Papers%20comparing%20to%20non-DL.svg)
 
 ## Reproducibility
 
 Only 35.7% of papers are fully reproducible. 23.5% are potentially reproducible (only data available), while 21.4% provide neither the code nor the data.
 
-![reproduce](./Papers with code and data.svg)
+![reproduce](https://raw.githubusercontent.com/yrahul3910/dl4se/master/lit-review/Papers%20with%20code%20and%20data.svg)
 
 ## Venues
 
@@ -38,4 +38,4 @@ We performed a similar aggregation here; tasks such as code search and API embed
 
 Following this, the majority of the work is in code synthesis (23.5%) and code comprehension (18.4%), followed by language modeling (13.3%) and language processing (12.2%).
 
-![tasks](./SE tasks.svg)
+![tasks](https://github.com/yrahul3910/dl4se/blob/master/lit-review/SE%20tasks.svg)
