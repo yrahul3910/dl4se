@@ -12,24 +12,24 @@ if __name__ == "__main__":
 
     for dat in datasets:
         for time in directories:
-            if f'{dat}-{time}.txt' in os.listdir('./orig-ghost-log/'):
-                continue
-            data = DataLoader.from_file("/Users/ryedida/PycharmProjects/raise-package/issue_close_time/" + time + "/" + dat + ".csv",
+            if time in ["180 days", "365 days"]: continue
+            if dat not in ["ofbiz", "qpid"]: continue
+
+            data = DataLoader.from_file("./issue_close_time/" + time + "/" + dat + ".csv",
                                         target="timeOpen", col_start=0)
 
             config = {
                 "n_runs": 10,
                 "transforms": ["normalize", "standardize", "robust", "maxabs", "minmax"] * 30,
-                "metrics": ["d2h", "pd", "pf", "prec"],
+                "metrics": ["d2h", "pd", "pf", "prec", "auc", "f1"],
                 "random": True,
-                "learners": [FeedforwardDL(wfo=True, weighted=True, random={'n_layers': (2, 6), 'n_units': (3, 20)}, n_epochs=20)],
-                "log_path": "./orig-ghost-log/",
+                "learners": [FeedforwardDL(weighted=True, wfo=True, random={ 'n_layers': (2, 6), 'n_units': (3, 20) }, n_epochs=20)],
+                "log_path": "../ghost/",
                 "data": [data],
                 "name": dat + "-" + time
             }
             for _ in range(50):
-                config["learners"].append(
-                    FeedforwardDL(weighted=True, wfo=True, random={'n_layers': (2, 6), 'n_units': (3, 20)}, n_epochs=20))
+                config["learners"].append(FeedforwardDL(weighted=True, wfo=True, random={ 'n_layers': (2, 6), 'n_units': (3, 20) }, n_epochs=20));
 
             dodge = DODGE(config)
             dodge.optimize()
