@@ -2,6 +2,12 @@
 
 This is based on [98 papers](./DL4SE lit review.xlsx).
 
+## Big picture
+
+A bias towards sequence models.
+
+![overall](./heatmap-total.jpg)
+
 ## Hyperparameter tuning
 
 64% do no tuning at all.
