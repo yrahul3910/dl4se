@@ -1,0 +1,35 @@
+Using TensorFlow backend.
+Time: 2020-10-12 23:57:23.758633
+[Configuration]
+'est_config' : ====== Intrinsic Dim Estimation of real dataset ======
+'log_dir' : exp/realcase/log
+'log_filename' : est.log
+'logrs' : -4:0:20
+
+-----------------eclipse----------------------
+        bugID  s1  s2  s3   s4  s5  s6  s8  s90  s91
+0      300005   3   2   1   34   1   0   1    1    1
+1      300005   5   3   2   50   2   1   2    1    1
+2      300005   6   3   3   37   3   2   3    1    1
+3      300017   4   4   0  127   1   0   1    1    1
+4      300017   4   1   3   84   2   2   1    0    1
+...       ...  ..  ..  ..  ...  ..  ..  ..  ...  ...
+69999  489963   6   3   3   61   2   6   2    1    1
+70000  489963   1   0   1    3   3  12   1    0    1
+70001  489963   1   1   0   23   4  14   1    1    0
+70002  489963   2   2   0   21   5  16   1    1    1
+70003  489963   2   1   1   12   6  17   1    0    1
+
+[70004 rows x 10 columns]
+In training set:
+number of target is 8243
+number of non-target is 61761
+ratio of target is 0.11775041426204216
+>> creating intrinsic dimension solver
+>> solving...
+ues L1 norm to compute the distance
+candidate estiamted instrinsic dim: [ 1.61891658  1.57834592  1.52318566  1.45558352  1.41202187  1.54495662
+  1.82151803  1.87962548  1.85333884  2.09600544  2.10525551  2.24495641
+  2.25745643  2.21330837  2.12450132  1.98733221  1.81549033  1.61310545
+  1.36711595 -0.        ]
+>> task finished
