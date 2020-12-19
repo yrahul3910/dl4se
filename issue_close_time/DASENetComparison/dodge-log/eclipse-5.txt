@@ -1,0 +1,1241 @@
+Run # 0
+======
+setting: robusto|rf
+iter 0 : [0.23484372321581623]
+setting: normalizeG|rf
+iter 1 : [0.21021655905376835]
+setting: normalizew|rf
+iter 2 : [0.2333580938232101]
+setting: maxabsP|rf
+iter 3 : [0.23352951259928004]
+setting: minmaxu|rf
+iter 4 : [0.23170104565453403]
+setting: maxabsJ|rf
+iter 5 : [0.23370093137534997]
+setting: maxabsu|rf
+iter 6 : [0.23484372321581623]
+setting: maxabsT|rf
+iter 7 : [0.23352951259928004]
+setting: maxabsL|rf
+iter 8 : [0.23307239586309353]
+setting: standardizeb|rf
+iter 9 : [0.23352951259928004]
+setting: robustU|rf
+iter 10 : [0.21233072395863092]
+setting: robustE|rf
+iter 11 : [0.21244500314267756]
+setting: standardizep|rf
+iter 12 : [0.23352951259928004]
+setting: maxabsD|rf
+iter 13 : [0.23221530198274384]
+setting: minmaxS|rf
+iter 14 : [0.21227358436660762]
+setting: normalizeD|rf
+iter 15 : [0.23141534769441746]
+setting: robustx|rf
+iter 16 : [0.23432946688760642]
+setting: minmaxY|rf
+iter 17 : [0.23432946688760642]
+setting: maxabsB|rf
+iter 18 : [0.23192960402262727]
+setting: robustz|rf
+iter 19 : [0.23124392891834752]
+setting: minmaxp|rf
+iter 20 : [0.21404491171933032]
+setting: standardizez|rf
+iter 21 : [0.23347237300725673]
+setting: robustK|rf
+iter 22 : [0.23432946688760642]
+setting: maxabsW|rf
+iter 23 : [0.23432946688760642]
+setting: minmaxG|rf
+iter 24 : [0.23432946688760642]
+setting: standardizeO|rf
+iter 25 : [0.23432946688760642]
+setting: minmaxQ|rf
+iter 26 : [0.21398777212730702]
+setting: normalizen|rf
+iter 27 : [0.2346723044397463]
+setting: maxabss|rf
+iter 28 : [0.23352951259928004]
+setting: robustJ|rf
+iter 29 : [0.23232958116679048]
+Run # 1
+======
+setting: normalizeE|rf
+iter 0 : [0.23501514199188617]
+setting: minmaxz|rf
+iter 1 : [0.23227244157476715]
+setting: robustm|rf
+iter 2 : [0.23364379178332667]
+setting: maxabsu|rf
+iter 3 : [0.2254728301239929]
+setting: standardizeg|rf
+iter 4 : [0.21290211987886407]
+setting: normalizey|rf
+iter 5 : [0.2143306096794469]
+setting: robustg|rf
+iter 6 : [0.21421633049540026]
+setting: standardizeB|rf
+iter 7 : [0.21421633049540026]
+setting: maxabsn|rf
+iter 8 : [0.2338152105593966]
+setting: robustw|rf
+iter 9 : [0.23347237300725673]
+setting: minmaxy|rf
+iter 10 : [0.23238672075881378]
+setting: minmaxe|rf
+iter 11 : [0.23278669790297699]
+setting: standardizep|rf
+iter 12 : [0.2319867436146506]
+setting: maxabsI|rf
+iter 13 : [0.23398662933546654]
+setting: standardizex|rf
+iter 14 : [0.23238672075881378]
+setting: maxabsr|rf
+iter 15 : [0.23238672075881378]
+setting: minmaxB|rf
+iter 16 : [0.23175818524655734]
+setting: standardizeJ|rf
+iter 17 : [0.2307296725901377]
+setting: maxabsq|rf
+iter 18 : [0.23238672075881378]
+setting: robustc|rf
+iter 19 : [0.23187246443060397]
+setting: standardizeY|rf
+iter 20 : [0.23501514199188617]
+setting: robusty|rf
+iter 21 : [0.2143306096794469]
+setting: maxabsM|rf
+iter 22 : [0.23255813953488372]
+setting: normalizeW|rf
+iter 23 : [0.23227244157476715]
+setting: robustt|rf
+iter 24 : [0.21370207416719045]
+setting: standardizeI|rf
+iter 25 : [0.23221530198274384]
+setting: standardizem|rf
+iter 26 : [0.23044397463002114]
+setting: normalizeP|rf
+iter 27 : [0.23295811667904692]
+setting: minmaxA|rf
+iter 28 : [0.2139306325352837]
+setting: minmaxI|rf
+iter 29 : [0.21341637620707388]
+Run # 2
+======
+setting: minmaxF|rf
+iter 0 : [0.21387349294326038]
+setting: robustf|rf
+iter 1 : [0.23147248728644076]
+setting: robustl|rf
+iter 2 : [0.2139306325352837]
+setting: maxabso|rf
+iter 3 : [0.23147248728644076]
+setting: robustO|rf
+iter 4 : [0.23255813953488372]
+setting: standardizes|rf
+iter 5 : [0.2139306325352837]
+setting: normalizev|rf
+iter 6 : [0.2337580709673733]
+setting: minmaxB|rf
+iter 7 : [0.23010113707788127]
+setting: maxabsO|rf
+iter 8 : [0.21341637620707388]
+setting: maxabsV|rf
+iter 9 : [0.23010113707788127]
+setting: normalizeo|rf
+iter 10 : [0.2338152105593966]
+setting: standardizek|rf
+iter 11 : [0.2333580938232101]
+setting: normalizeu|rf
+iter 12 : [0.2285583680932518]
+setting: maxabsB|rf
+iter 13 : [0.213073538654934]
+setting: maxabsK|rf
+iter 14 : [0.2126164219187475]
+setting: maxabsU|rf
+iter 15 : [0.23318667504714016]
+setting: minmaxk|rf
+iter 16 : [0.21295925947088737]
+setting: minmaxe|rf
+iter 17 : [0.2285583680932518]
+setting: standardizeG|rf
+iter 18 : [0.23227244157476715]
+setting: robustM|rf
+iter 19 : [0.2285583680932518]
+setting: standardizev|rf
+iter 20 : [0.23307239586309353]
+setting: minmaxb|rf
+iter 21 : [0.2130163990629107]
+setting: maxabsN|rf
+iter 22 : [0.2346723044397463]
+setting: maxabsT|rf
+iter 23 : [0.2285583680932518]
+setting: robustm|rf
+iter 24 : [0.2285583680932518]
+setting: maxabsf|rf
+iter 25 : [0.2285583680932518]
+setting: standardizej|rf
+iter 26 : [0.21295925947088737]
+setting: standardizeW|rf
+iter 27 : [0.2285583680932518]
+setting: normalizew|rf
+iter 28 : [0.22964402034169476]
+setting: maxabsm|rf
+iter 29 : [0.235529398320096]
+Run # 3
+======
+setting: maxabsv|rf
+iter 0 : [0.2316439060625107]
+setting: robustb|rf
+iter 1 : [0.21187360722244444]
+setting: standardizei|rf
+iter 2 : [0.23232958116679048]
+setting: robustE|rf
+iter 3 : [0.22964402034169476]
+setting: standardizeS|rf
+iter 4 : [0.22964402034169476]
+setting: minmaxS|rf
+iter 5 : [0.21187360722244444]
+setting: maxabsI|rf
+iter 6 : [0.21164504885435118]
+setting: minmaxI|rf
+iter 7 : [0.23324381463916347]
+setting: normalized|rf
+iter 8 : [0.21153076967030454]
+setting: minmaxw|rf
+iter 9 : [0.21238786355065425]
+setting: robustq|rf
+iter 10 : [0.2285012285012285]
+setting: robustz|rf
+iter 11 : [0.2333580938232101]
+setting: normalizeJ|rf
+iter 12 : [0.21295925947088737]
+setting: maxabsP|rf
+iter 13 : [0.23301525627107023]
+setting: minmaxv|rf
+iter 14 : [0.22815839094908863]
+setting: normalizef|rf
+iter 15 : [0.22970115993371806]
+setting: standardizeb|rf
+iter 16 : [0.22970115993371806]
+setting: maxabsU|rf
+iter 17 : [0.22970115993371806]
+setting: normalizeZ|rf
+iter 18 : [0.211245071710188]
+setting: minmaxO|rf
+iter 19 : [0.2113593508942346]
+setting: maxabsA|rf
+iter 20 : [0.2307296725901377]
+setting: robustf|rf
+iter 21 : [0.22907262442146162]
+setting: maxabso|rf
+iter 22 : [0.22907262442146162]
+setting: robustP|rf
+iter 23 : [0.23175818524655734]
+setting: maxabsM|rf
+iter 24 : [0.23312953545511686]
+setting: minmaxt|rf
+iter 25 : [0.23318667504714016]
+setting: maxabsg|rf
+iter 26 : [0.2113593508942346]
+setting: standardizey|rf
+iter 27 : [0.21118793211816467]
+setting: normalizem|rf
+iter 28 : [0.23135820810239416]
+setting: normalizeR|rf
+iter 29 : [0.22930118278955489]
+Run # 4
+======
+setting: minmaxS|rf
+iter 0 : [0.23272955831095365]
+setting: minmaxD|rf
+iter 1 : [0.2338723501514199]
+setting: maxabsQ|rf
+iter 2 : [0.22930118278955489]
+setting: maxabsU|rf
+iter 3 : [0.2321010227986972]
+setting: minmaxT|rf
+iter 4 : [0.21221644477458432]
+setting: standardizec|rf
+iter 5 : [0.23295811667904692]
+setting: minmaxx|rf
+iter 6 : [0.23244386035083708]
+setting: minmaxo|rf
+iter 7 : [0.2315867664704874]
+setting: maxabsz|rf
+iter 8 : [0.21221644477458432]
+setting: maxabse|rf
+iter 9 : [0.2125592823267242]
+setting: robustm|rf
+iter 10 : [0.23095823095823095]
+setting: standardizem|rf
+iter 11 : [0.22930118278955489]
+setting: standardizei|rf
+iter 12 : [0.21227358436660762]
+setting: robustf|rf
+iter 13 : [0.21221644477458432]
+setting: normalizeW|rf
+iter 14 : [0.22815839094908863]
+setting: robustN|rf
+iter 15 : [0.23227244157476715]
+setting: robustj|rf
+iter 16 : [0.21221644477458432]
+setting: minmaxC|rf
+iter 17 : [0.2113593508942346]
+setting: minmaxq|rf
+iter 18 : [0.2356436775041426]
+setting: normalizeS|rf
+iter 19 : [0.2319867436146506]
+setting: maxabsj|rf
+iter 20 : [0.2107879549740015]
+setting: normalizem|rf
+iter 21 : [0.22878692646134507]
+setting: robustW|rf
+iter 22 : [0.23067253299811438]
+setting: robustZ|rf
+iter 23 : [0.23358665219130337]
+setting: normalizel|rf
+iter 24 : [0.2293583223815782]
+setting: minmaxi|rf
+iter 25 : [0.23101537055025428]
+setting: robustl|rf
+iter 26 : [0.23078681218216102]
+setting: normalizes|rf
+iter 27 : [0.23170104565453403]
+setting: standardizeh|rf
+iter 28 : [0.22930118278955489]
+setting: normalizeE|rf
+iter 29 : [0.21210216559053768]
+Run # 5
+======
+setting: minmaxH|rf
+iter 0 : [0.23090109136620765]
+setting: robustq|rf
+iter 1 : [0.23090109136620765]
+setting: standardized|rf
+iter 2 : [0.2117593280383978]
+setting: robustz|rf
+iter 3 : [0.23090109136620765]
+setting: normalizeK|rf
+iter 4 : [0.23084395177418432]
+setting: standardizem|rf
+iter 5 : [0.23084395177418432]
+setting: normalizeL|rf
+iter 6 : [0.2113593508942346]
+setting: robusto|rf
+iter 7 : [0.2315296268784641]
+setting: standardizeb|rf
+iter 8 : [0.2118164676304211]
+setting: standardizek|rf
+iter 9 : [0.2315296268784641]
+setting: normalizeh|rf
+iter 10 : [0.23307239586309353]
+setting: standardizew|rf
+iter 11 : [0.21147363007828124]
+setting: normalizeG|rf
+iter 12 : [0.23015827666990457]
+setting: minmaxL|rf
+iter 13 : [0.23118678932632422]
+setting: standardizey|rf
+iter 14 : [0.23135820810239416]
+setting: normalizeZ|rf
+iter 15 : [0.2319867436146506]
+setting: maxabsi|rf
+iter 16 : [0.2108450945660248]
+setting: minmaxd|rf
+iter 17 : [0.23084395177418432]
+setting: normalizem|rf
+iter 18 : [0.21118793211816467]
+setting: minmaxg|rf
+iter 19 : [0.23255813953488372]
+setting: normalizez|rf
+iter 20 : [0.2271870178846923]
+setting: normalizeA|rf
+iter 21 : [0.23192960402262727]
+setting: robustA|rf
+iter 22 : [0.2117593280383978]
+setting: minmaxa|rf
+iter 23 : [0.2271870178846923]
+setting: maxabsZ|rf
+iter 24 : [0.2117021884463745]
+setting: minmaxh|rf
+iter 25 : [0.2113593508942346]
+setting: normalizeu|rf
+iter 26 : [0.2118164676304211]
+setting: robustb|rf
+iter 27 : [0.23495800239986286]
+setting: standardizes|rf
+iter 28 : [0.2117593280383978]
+setting: normalizeq|rf
+iter 29 : [0.2328438374950003]
+Run # 6
+======
+setting: minmaxu|rf
+iter 0 : [0.2284440889092052]
+setting: minmaxC|rf
+iter 1 : [0.23232958116679048]
+setting: normalizeU|rf
+iter 2 : [0.2125592823267242]
+setting: normalizez|rf
+iter 3 : [0.23250099994286041]
+setting: standardizeL|rf
+iter 4 : [0.22792983258099536]
+setting: standardizez|rf
+iter 5 : [0.2320438832066739]
+setting: normalizee|rf
+iter 6 : [0.22764413462087882]
+setting: minmaxI|rf
+iter 7 : [0.23318667504714016]
+setting: minmaxL|rf
+iter 8 : [0.23484372321581623]
+setting: maxabso|rf
+iter 9 : [0.21193074681446775]
+setting: maxabsR|rf
+iter 10 : [0.21187360722244444]
+setting: normalized|rf
+iter 11 : [0.2285012285012285]
+setting: robustq|rf
+iter 12 : [0.2285012285012285]
+setting: robustR|rf
+iter 13 : [0.2337580709673733]
+setting: standardized|rf
+iter 14 : [0.2285012285012285]
+setting: standardizeA|rf
+iter 15 : [0.23272955831095365]
+setting: robustK|rf
+iter 16 : [0.2285012285012285]
+setting: normalizen|rf
+iter 17 : [0.23301525627107023]
+setting: normalizer|rf
+iter 18 : [0.21324495743100394]
+setting: standardizee|rf
+iter 19 : [0.23301525627107023]
+setting: maxabsm|rf
+iter 20 : [0.21295925947088737]
+setting: robustc|rf
+iter 21 : [0.22598708645220272]
+setting: maxabsu|rf
+iter 22 : [0.21295925947088737]
+setting: minmaxs|rf
+iter 23 : [0.2319867436146506]
+setting: maxabsS|rf
+iter 24 : [0.22598708645220272]
+setting: robustW|rf
+iter 25 : [0.23232958116679048]
+setting: maxabsE|rf
+iter 26 : [0.23307239586309353]
+setting: normalizeI|rf
+iter 27 : [0.23227244157476715]
+setting: normalizew|rf
+iter 28 : [0.22792983258099536]
+setting: maxabsz|rf
+iter 29 : [0.22792983258099536]
+Run # 7
+======
+setting: standardizeg|rf
+iter 0 : [0.23078681218216102]
+setting: robustE|rf
+iter 1 : [0.23415804811153648]
+setting: robustr|rf
+iter 2 : [0.22792983258099536]
+setting: robustR|rf
+iter 3 : [0.21193074681446775]
+setting: robustp|rf
+iter 4 : [0.23135820810239416]
+setting: standardizer|rf
+iter 5 : [0.22952974115764813]
+setting: minmaxA|rf
+iter 6 : [0.23324381463916347]
+setting: minmaxb|rf
+iter 7 : [0.23192960402262727]
+setting: standardizes|rf
+iter 8 : [0.22792983258099536]
+setting: standardizeu|rf
+iter 9 : [0.23170104565453403]
+setting: normalizeU|rf
+iter 10 : [0.21221644477458432]
+setting: minmaxs|rf
+iter 11 : [0.22838694931718187]
+setting: minmaxv|rf
+iter 12 : [0.21238786355065425]
+setting: robustx|rf
+iter 13 : [0.22838694931718187]
+setting: minmaxe|rf
+iter 14 : [0.22838694931718187]
+setting: minmaxn|rf
+iter 15 : [0.23078681218216102]
+setting: maxabsK|rf
+iter 16 : [0.23232958116679048]
+setting: robusta|rf
+iter 17 : [0.22838694931718187]
+setting: minmaxH|rf
+iter 18 : [0.22992971830181133]
+setting: minmaxd|rf
+iter 19 : [0.2307296725901377]
+setting: normalizeO|rf
+iter 20 : [0.21250214273470086]
+setting: minmaxU|rf
+iter 21 : [0.2334152334152334]
+setting: normalizeX|rf
+iter 22 : [0.23272955831095365]
+setting: normalizeF|rf
+iter 23 : [0.21027369864579168]
+setting: normalizeV|rf
+iter 24 : [0.22930118278955489]
+setting: robustn|rf
+iter 25 : [0.22930118278955489]
+setting: standardizeE|rf
+iter 26 : [0.22930118278955489]
+setting: maxabsU|rf
+iter 27 : [0.22930118278955489]
+setting: robustJ|rf
+iter 28 : [0.22930118278955489]
+setting: minmaxE|rf
+iter 29 : [0.22930118278955489]
+Run # 8
+======
+setting: maxabsy|rf
+iter 0 : [0.23090109136620765]
+setting: standardizeT|rf
+iter 1 : [0.23261527912690702]
+setting: robustV|rf
+iter 2 : [0.21193074681446775]
+setting: standardizen|rf
+iter 3 : [0.2316439060625107]
+setting: maxabsf|rf
+iter 4 : [0.22930118278955489]
+setting: standardizev|rf
+iter 5 : [0.22930118278955489]
+setting: robustx|rf
+iter 6 : [0.22930118278955489]
+setting: normalizeu|rf
+iter 7 : [0.23170104565453403]
+setting: robustT|rf
+iter 8 : [0.2126164219187475]
+setting: standardizeY|rf
+iter 9 : [0.22644420318838923]
+setting: minmaxX|rf
+iter 10 : [0.23090109136620765]
+setting: minmaxw|rf
+iter 11 : [0.23358665219130337]
+setting: maxabsv|rf
+iter 12 : [0.2117593280383978]
+setting: robustU|rf
+iter 13 : [0.2126164219187475]
+setting: standardizeG|rf
+iter 14 : [0.23255813953488372]
+setting: normalizeR|rf
+iter 15 : [0.2272441574767156]
+setting: minmaxS|rf
+iter 16 : [0.2320438832066739]
+setting: maxabsh|rf
+iter 17 : [0.2320438832066739]
+setting: maxabsp|rf
+iter 18 : [0.2272441574767156]
+setting: normalizeC|rf
+iter 19 : [0.228044111765042]
+setting: minmaxs|rf
+iter 20 : [0.228044111765042]
+setting: maxabsn|rf
+iter 21 : [0.23312953545511686]
+setting: robustj|rf
+iter 22 : [0.23141534769441746]
+setting: maxabsj|rf
+iter 23 : [0.2315867664704874]
+setting: standardizeK|rf
+iter 24 : [0.2117021884463745]
+setting: maxabsY|rf
+iter 25 : [0.228044111765042]
+setting: minmaxj|rf
+iter 26 : [0.2316439060625107]
+setting: robustC|rf
+iter 27 : [0.23255813953488372]
+setting: minmaxx|rf
+iter 28 : [0.21164504885435118]
+setting: maxabsL|rf
+iter 29 : [0.23227244157476715]
+Run # 9
+======
+setting: normalizel|rf
+iter 0 : [0.21164504885435118]
+setting: maxabsl|rf
+iter 1 : [0.23050111422204445]
+setting: robustp|rf
+iter 2 : [0.22764413462087882]
+setting: standardizey|rf
+iter 3 : [0.23147248728644076]
+setting: standardizex|rf
+iter 4 : [0.23101537055025428]
+setting: robustj|rf
+iter 5 : [0.2117021884463745]
+setting: minmaxr|rf
+iter 6 : [0.22764413462087882]
+setting: minmaxE|rf
+iter 7 : [0.22764413462087882]
+setting: minmaxD|rf
+iter 8 : [0.2337580709673733]
+setting: robustG|rf
+iter 9 : [0.22764413462087882]
+setting: normalizee|rf
+iter 10 : [0.23015827666990457]
+setting: robustl|rf
+iter 11 : [0.22421575909948002]
+setting: normalizeI|rf
+iter 12 : [0.2126164219187475]
+setting: maxabsq|rf
+iter 13 : [0.21273070110279413]
+setting: normalizeV|rf
+iter 14 : [0.2316439060625107]
+setting: minmaxF|rf
+iter 15 : [0.23364379178332667]
+setting: standardizec|rf
+iter 16 : [0.23147248728644076]
+setting: standardizeD|rf
+iter 17 : [0.23450088566367636]
+setting: standardizeZ|rf
+iter 18 : [0.23010113707788127]
+setting: robustr|rf
+iter 19 : [0.2315296268784641]
+setting: maxabsC|rf
+iter 20 : [0.23432946688760642]
+setting: minmaxd|rf
+iter 21 : [0.2310725101422776]
+setting: normalizeL|rf
+iter 22 : [0.22998685789383463]
+setting: normalizew|rf
+iter 23 : [0.22998685789383463]
+setting: robustn|rf
+iter 24 : [0.213073538654934]
+setting: normalizeG|rf
+iter 25 : [0.23050111422204445]
+setting: maxabsP|rf
+iter 26 : [0.2271870178846923]
+setting: maxabsr|rf
+iter 27 : [0.2271870178846923]
+setting: robustM|rf
+iter 28 : [0.23130106851037083]
+setting: robustz|rf
+iter 29 : [0.2271870178846923]
+Run # 10
+=======
+setting: minmaxm|rf
+iter 0 : [0.212159305182561]
+setting: standardizeb|rf
+iter 1 : [0.2271870178846923]
+setting: standardizet|rf
+iter 2 : [0.2271870178846923]
+setting: standardizee|rf
+iter 3 : [0.23318667504714016]
+setting: maxabsT|rf
+iter 4 : [0.23090109136620765]
+setting: standardized|rf
+iter 5 : [0.2271870178846923]
+setting: robustE|rf
+iter 6 : [0.21193074681446775]
+setting: normalizej|rf
+iter 7 : [0.2117593280383978]
+setting: standardizec|rf
+iter 8 : [0.2117593280383978]
+setting: standardizek|rf
+iter 9 : [0.23364379178332667]
+setting: maxabsH|rf
+iter 10 : [0.2117593280383978]
+setting: maxabsY|rf
+iter 11 : [0.2337580709673733]
+setting: normalizef|rf
+iter 12 : [0.23181532483858067]
+setting: standardizei|rf
+iter 13 : [0.22695845951659904]
+setting: normalizeU|rf
+iter 14 : [0.21250214273470086]
+setting: standardizeG|rf
+iter 15 : [0.2315296268784641]
+setting: standardizeO|rf
+iter 16 : [0.23221530198274384]
+setting: normalizem|rf
+iter 17 : [0.22787269298897206]
+setting: robustX|rf
+iter 18 : [0.23478658362379293]
+setting: maxabso|rf
+iter 19 : [0.23347237300725673]
+setting: normalizeV|rf
+iter 20 : [0.2272441574767156]
+setting: minmaxj|rf
+iter 21 : [0.23015827666990457]
+setting: normalizea|rf
+iter 22 : [0.2338723501514199]
+setting: robustI|rf
+iter 23 : [0.2355865379121193]
+setting: minmaxa|rf
+iter 24 : [0.2267870407405291]
+setting: maxabsJ|rf
+iter 25 : [0.2267870407405291]
+setting: standardizew|rf
+iter 26 : [0.2267870407405291]
+setting: minmaxn|rf
+iter 27 : [0.2267870407405291]
+setting: normalizeA|rf
+iter 28 : [0.2267870407405291]
+setting: minmaxI|rf
+iter 29 : [0.2267870407405291]
+Run # 11
+=======
+setting: minmaxA|rf
+iter 0 : [0.23261527912690702]
+setting: robustk|rf
+iter 1 : [0.2107879549740015]
+setting: normalizet|rf
+iter 2 : [0.23404376892748985]
+setting: robustF|rf
+iter 3 : [0.2250157133878064]
+setting: standardizec|rf
+iter 4 : [0.2338152105593966]
+setting: standardizek|rf
+iter 5 : [0.2108450945660248]
+setting: robustc|rf
+iter 6 : [0.2250157133878064]
+setting: standardizeD|rf
+iter 7 : [0.2250157133878064]
+setting: maxabsD|rf
+iter 8 : [0.23232958116679048]
+setting: maxabsX|rf
+iter 9 : [0.2250157133878064]
+setting: robustv|rf
+iter 10 : [0.2338152105593966]
+setting: maxabsQ|rf
+iter 11 : [0.23438660647962972]
+setting: minmaxM|rf
+iter 12 : [0.23118678932632422]
+setting: minmaxH|rf
+iter 13 : [0.23364379178332667]
+setting: normalizeG|rf
+iter 14 : [0.23238672075881378]
+setting: minmaxx|rf
+iter 15 : [0.212159305182561]
+setting: standardizeS|rf
+iter 16 : [0.212159305182561]
+setting: minmaxT|rf
+iter 17 : [0.226215644820296]
+setting: minmaxE|rf
+iter 18 : [0.21158790926232787]
+setting: minmaxX|rf
+iter 19 : [0.226215644820296]
+setting: minmaxs|rf
+iter 20 : [0.23135820810239416]
+setting: normalizeE|rf
+iter 21 : [0.23370093137534997]
+setting: robustC|rf
+iter 22 : [0.2108450945660248]
+setting: maxabsC|rf
+iter 23 : [0.22461573624364323]
+setting: minmaxg|rf
+iter 24 : [0.235529398320096]
+setting: standardizeT|rf
+iter 25 : [0.2338152105593966]
+setting: normalizeC|rf
+iter 26 : [0.22701559910862237]
+setting: standardizeI|rf
+iter 27 : [0.23501514199188617]
+setting: robustq|rf
+iter 28 : [0.22701559910862237]
+setting: standardizeF|rf
+iter 29 : [0.21061653619793155]
+Run # 12
+=======
+setting: standardizep|rf
+iter 0 : [0.23398662933546654]
+setting: robustG|rf
+iter 1 : [0.21050225701388492]
+setting: standardizeQ|rf
+iter 2 : [0.23227244157476715]
+setting: maxabsf|rf
+iter 3 : [0.22701559910862237]
+setting: minmaxH|rf
+iter 4 : [0.23215816239072054]
+setting: standardizeh|rf
+iter 5 : [0.2307296725901377]
+setting: robustg|rf
+iter 6 : [0.22701559910862237]
+setting: maxabsn|rf
+iter 7 : [0.2334152334152334]
+setting: maxabss|rf
+iter 8 : [0.23124392891834752]
+setting: minmaxM|rf
+iter 9 : [0.21061653619793155]
+setting: maxabsg|rf
+iter 10 : [0.21055939660590822]
+setting: standardizeG|rf
+iter 11 : [0.234615164847723]
+setting: robustw|rf
+iter 12 : [0.21061653619793155]
+setting: minmaxw|rf
+iter 13 : [0.23135820810239416]
+setting: minmaxr|rf
+iter 14 : [0.2328438374950003]
+setting: maxabsk|rf
+iter 15 : [0.2303296954459745]
+setting: maxabsP|rf
+iter 16 : [0.2315296268784641]
+setting: normalizea|rf
+iter 17 : [0.23312953545511686]
+setting: normalizeY|rf
+iter 18 : [0.23255813953488372]
+setting: standardizeH|rf
+iter 19 : [0.21198788640649105]
+setting: robustE|rf
+iter 20 : [0.21198788640649105]
+setting: normalizep|rf
+iter 21 : [0.22227301297068738]
+setting: robustL|rf
+iter 22 : [0.22227301297068738]
+setting: maxabsJ|rf
+iter 23 : [0.23141534769441746]
+setting: normalizeO|rf
+iter 24 : [0.22535855093994628]
+setting: standardizeT|rf
+iter 25 : [0.21273070110279413]
+setting: minmaxZ|rf
+iter 26 : [0.23530083995200274]
+setting: normalizeF|rf
+iter 27 : [0.23010113707788127]
+setting: maxabso|rf
+iter 28 : [0.2307296725901377]
+setting: standardizeF|rf
+iter 29 : [0.22570138849208618]
+Run # 13
+=======
+setting: robustb|rf
+iter 0 : [0.22924404319753158]
+setting: standardizev|rf
+iter 1 : [0.22570138849208618]
+setting: minmaxy|rf
+iter 2 : [0.22570138849208618]
+setting: maxabsm|rf
+iter 3 : [0.22570138849208618]
+setting: normalizeT|rf
+iter 4 : [0.2316439060625107]
+setting: maxabsf|rf
+iter 5 : [0.22335866521913034]
+setting: maxabsK|rf
+iter 6 : [0.22335866521913034]
+setting: minmaxq|rf
+iter 7 : [0.23261527912690702]
+setting: maxabsq|rf
+iter 8 : [0.2099308610936518]
+setting: robustT|rf
+iter 9 : [0.23221530198274384]
+setting: normalizeS|rf
+iter 10 : [0.23444374607165305]
+setting: standardizeq|rf
+iter 11 : [0.21221644477458432]
+setting: minmaxl|rf
+iter 12 : [0.23358665219130337]
+setting: robusts|rf
+iter 13 : [0.212159305182561]
+setting: maxabsr|rf
+iter 14 : [0.22690131992457574]
+setting: minmaxw|rf
+iter 15 : [0.2328438374950003]
+setting: maxabsn|rf
+iter 16 : [0.23250099994286041]
+setting: maxabsv|rf
+iter 17 : [0.2319867436146506]
+setting: robustN|rf
+iter 18 : [0.22690131992457574]
+setting: normalizej|rf
+iter 19 : [0.2328438374950003]
+setting: standardizeX|rf
+iter 20 : [0.2329009770870236]
+setting: maxabso|rf
+iter 21 : [0.2333009542311868]
+setting: maxabsy|rf
+iter 22 : [0.21118793211816467]
+setting: robustv|rf
+iter 23 : [0.23135820810239416]
+setting: robusth|rf
+iter 24 : [0.2338723501514199]
+setting: maxabsG|rf
+iter 25 : [0.23181532483858067]
+setting: minmaxF|rf
+iter 26 : [0.23215816239072054]
+setting: standardized|rf
+iter 27 : [0.23272955831095365]
+setting: normalizet|rf
+iter 28 : [0.23278669790297699]
+setting: standardizer|rf
+iter 29 : [0.22747271584480888]
+Run # 14
+=======
+setting: robustD|rf
+iter 0 : [0.2346723044397463]
+setting: minmaxI|rf
+iter 1 : [0.22747271584480888]
+setting: robustP|rf
+iter 2 : [0.23410090851951318]
+setting: robustH|rf
+iter 3 : [0.21153076967030454]
+setting: normalizel|rf
+iter 4 : [0.22524427175589967]
+setting: normalizex|rf
+iter 5 : [0.23192960402262727]
+setting: robustW|rf
+iter 6 : [0.23238672075881378]
+setting: standardizer|rf
+iter 7 : [0.2113593508942346]
+setting: standardizew|rf
+iter 8 : [0.23215816239072054]
+setting: minmaxY|rf
+iter 9 : [0.22575852808410948]
+setting: maxabsn|rf
+iter 10 : [0.21141649048625794]
+setting: normalizev|rf
+iter 11 : [0.23215816239072054]
+setting: robustL|rf
+iter 12 : [0.2302154162619279]
+setting: minmaxq|rf
+iter 13 : [0.23215816239072054]
+setting: standardizeK|rf
+iter 14 : [0.22592994686017942]
+setting: maxabsD|rf
+iter 15 : [0.2113022113022113]
+setting: standardizem|rf
+iter 16 : [0.23095823095823095]
+setting: standardizeO|rf
+iter 17 : [0.22592994686017942]
+setting: minmaxd|rf
+iter 18 : [0.23392948974344324]
+setting: maxabsl|rf
+iter 19 : [0.21095937375007143]
+setting: maxabsi|rf
+iter 20 : [0.23318667504714016]
+setting: standardizeE|rf
+iter 21 : [0.23427232729558312]
+setting: minmaxA|rf
+iter 22 : [0.2113593508942346]
+setting: minmaxS|rf
+iter 23 : [0.21107365293411806]
+setting: maxabsL|rf
+iter 24 : [0.2113593508942346]
+setting: minmaxZ|rf
+iter 25 : [0.2315867664704874]
+setting: standardizej|rf
+iter 26 : [0.2113593508942346]
+setting: standardizel|rf
+iter 27 : [0.23295811667904692]
+setting: robustp|rf
+iter 28 : [0.21113079252614136]
+setting: robustT|rf
+iter 29 : [0.21153076967030454]
+Run # 15
+=======
+setting: robustk|rf
+iter 0 : [0.2328438374950003]
+setting: minmaxL|rf
+iter 1 : [0.23278669790297699]
+setting: robustq|rf
+iter 2 : [0.21107365293411806]
+setting: robustz|rf
+iter 3 : [0.22592994686017942]
+setting: standardizec|rf
+iter 4 : [0.23232958116679048]
+setting: robustB|rf
+iter 5 : [0.21118793211816467]
+setting: normalizey|rf
+iter 6 : [0.23238672075881378]
+setting: normalizeU|rf
+iter 7 : [0.21198788640649105]
+setting: robustt|rf
+iter 8 : [0.2117593280383978]
+setting: maxabsw|rf
+iter 9 : [0.22992971830181133]
+setting: robustX|rf
+iter 10 : [0.22730129706873892]
+setting: maxabsV|rf
+iter 11 : [0.23221530198274384]
+setting: maxabsJ|rf
+iter 12 : [0.2338152105593966]
+setting: normalizeZ|rf
+iter 13 : [0.23050111422204445]
+setting: robustj|rf
+iter 14 : [0.2310725101422776]
+setting: robustb|rf
+iter 15 : [0.23398662933546654]
+setting: standardizea|rf
+iter 16 : [0.21164504885435118]
+setting: standardizep|rf
+iter 17 : [0.23324381463916347]
+setting: standardizef|rf
+iter 18 : [0.22735843666076225]
+setting: minmaxU|rf
+iter 19 : [0.2334152334152334]
+setting: standardized|rf
+iter 20 : [0.2320438832066739]
+setting: normalizeS|rf
+iter 21 : [0.23312953545511686]
+setting: minmaxy|rf
+iter 22 : [0.2328438374950003]
+setting: robusty|rf
+iter 23 : [0.2338723501514199]
+setting: standardizeC|rf
+iter 24 : [0.22764413462087882]
+setting: standardizen|rf
+iter 25 : [0.23432946688760642]
+setting: robustn|rf
+iter 26 : [0.22764413462087882]
+setting: standardizeH|rf
+iter 27 : [0.21210216559053768]
+setting: robuste|rf
+iter 28 : [0.21210216559053768]
+setting: minmaxm|rf
+iter 29 : [0.21198788640649105]
+Run # 16
+=======
+setting: minmaxN|rf
+iter 0 : [0.2333009542311868]
+setting: standardizef|rf
+iter 1 : [0.2319867436146506]
+setting: standardizeP|rf
+iter 2 : [0.21198788640649105]
+setting: minmaxU|rf
+iter 3 : [0.23055825381406778]
+setting: normalizeh|rf
+iter 4 : [0.22764413462087882]
+setting: robustG|rf
+iter 5 : [0.23192960402262727]
+setting: normalizeE|rf
+iter 6 : [0.23478658362379293]
+setting: normalizeP|rf
+iter 7 : [0.22575852808410948]
+setting: maxabsM|rf
+iter 8 : [0.2107879549740015]
+setting: normalizeS|rf
+iter 9 : [0.2338152105593966]
+setting: maxabsv|rf
+iter 10 : [0.2298154391177647]
+setting: minmaxO|rf
+iter 11 : [0.2333580938232101]
+setting: maxabsF|rf
+iter 12 : [0.22815839094908863]
+setting: minmaxy|rf
+iter 13 : [0.21147363007828124]
+setting: standardizeF|rf
+iter 14 : [0.23490086280783956]
+setting: normalizew|rf
+iter 15 : [0.23295811667904692]
+setting: minmaxB|rf
+iter 16 : [0.2113022113022113]
+setting: robustf|rf
+iter 17 : [0.22770127421290212]
+setting: minmaxK|rf
+iter 18 : [0.23244386035083708]
+setting: maxabsc|rf
+iter 19 : [0.21113079252614136]
+setting: normalizeK|rf
+iter 20 : [0.2107879549740015]
+setting: maxabsH|rf
+iter 21 : [0.23175818524655734]
+setting: maxabsh|rf
+iter 22 : [0.2338152105593966]
+setting: minmaxj|rf
+iter 23 : [0.23415804811153648]
+setting: robusto|rf
+iter 24 : [0.23050111422204445]
+setting: standardizeH|rf
+iter 25 : [0.2107879549740015]
+setting: minmaxf|rf
+iter 26 : [0.23398662933546654]
+setting: normalizex|rf
+iter 27 : [0.20701674190046282]
+setting: robustS|rf
+iter 28 : [0.2345580252556997]
+setting: normalized|rf
+iter 29 : [0.2272441574767156]
+Run # 17
+=======
+setting: normalizeK|rf
+iter 0 : [0.2113593508942346]
+setting: robustg|rf
+iter 1 : [0.21164504885435118]
+setting: maxabsf|rf
+iter 2 : [0.2113593508942346]
+setting: standardizer|rf
+iter 3 : [0.2113593508942346]
+setting: robustf|rf
+iter 4 : [0.2272441574767156]
+setting: standardizeY|rf
+iter 5 : [0.2272441574767156]
+setting: robuste|rf
+iter 6 : [0.2319867436146506]
+setting: standardizeI|rf
+iter 7 : [0.21147363007828124]
+setting: standardizen|rf
+iter 8 : [0.2272441574767156]
+setting: robustC|rf
+iter 9 : [0.2272441574767156]
+setting: normalizeo|rf
+iter 10 : [0.2333580938232101]
+setting: maxabsU|rf
+iter 11 : [0.22747271584480888]
+setting: minmaxG|rf
+iter 12 : [0.22747271584480888]
+setting: robustp|rf
+iter 13 : [0.22747271584480888]
+setting: minmaxi|rf
+iter 14 : [0.2117021884463745]
+setting: robustw|rf
+iter 15 : [0.23295811667904692]
+setting: minmaxj|rf
+iter 16 : [0.21095937375007143]
+setting: maxabsn|rf
+iter 17 : [0.22747271584480888]
+setting: standardizeo|rf
+iter 18 : [0.23255813953488372]
+setting: minmaxx|rf
+iter 19 : [0.23181532483858067]
+setting: maxabsw|rf
+iter 20 : [0.22747271584480888]
+setting: normalizeY|rf
+iter 21 : [0.2267299011485058]
+setting: minmaxA|rf
+iter 22 : [0.2267299011485058]
+setting: robustl|rf
+iter 23 : [0.21158790926232787]
+setting: maxabsP|rf
+iter 24 : [0.23181532483858067]
+setting: robustE|rf
+iter 25 : [0.2118164676304211]
+setting: minmaxE|rf
+iter 26 : [0.2267299011485058]
+setting: normalizeg|rf
+iter 27 : [0.2319867436146506]
+setting: normalizeu|rf
+iter 28 : [0.23318667504714016]
+setting: robustS|rf
+iter 29 : [0.23421518770355979]
+Run # 18
+=======
+setting: normalizeL|rf
+iter 0 : [0.23358665219130337]
+setting: maxabsg|rf
+iter 1 : [0.22570138849208618]
+setting: normalizer|rf
+iter 2 : [0.23124392891834752]
+setting: robustZ|rf
+iter 3 : [0.23312953545511686]
+setting: standardizen|rf
+iter 4 : [0.2321010227986972]
+setting: standardizej|rf
+iter 5 : [0.22735843666076225]
+setting: maxabsh|rf
+iter 6 : [0.23295811667904692]
+setting: maxabsj|rf
+iter 7 : [0.2345580252556997]
+setting: normalizeW|rf
+iter 8 : [0.2107879549740015]
+setting: robustk|rf
+iter 9 : [0.21227358436660762]
+setting: robustf|rf
+iter 10 : [0.23101537055025428]
+setting: minmaxI|rf
+iter 11 : [0.2281012513570653]
+setting: minmaxl|rf
+iter 12 : [0.2281012513570653]
+setting: robuste|rf
+iter 13 : [0.212159305182561]
+setting: maxabsB|rf
+iter 14 : [0.2320438832066739]
+setting: normalizet|rf
+iter 15 : [0.2315867664704874]
+setting: minmaxJ|rf
+iter 16 : [0.2262727844123193]
+setting: minmaxD|rf
+iter 17 : [0.23061539340609108]
+setting: normalizeR|rf
+iter 18 : [0.23067253299811438]
+setting: robustl|rf
+iter 19 : [0.23135820810239416]
+setting: standardizeD|rf
+iter 20 : [0.2311296497343009]
+setting: minmaxc|rf
+iter 21 : [0.22735843666076225]
+setting: normalizeB|rf
+iter 22 : [0.21187360722244444]
+setting: maxabsU|rf
+iter 23 : [0.22701559910862237]
+setting: minmaxX|rf
+iter 24 : [0.22701559910862237]
+setting: standardizel|rf
+iter 25 : [0.22701559910862237]
+setting: maxabsk|rf
+iter 26 : [0.22701559910862237]
+setting: normalizey|rf
+iter 27 : [0.2315867664704874]
+setting: robusti|rf
+iter 28 : [0.21221644477458432]
+setting: robustC|rf
+iter 29 : [0.21221644477458432]
+Run # 19
+=======
+setting: robustn|rf
+iter 0 : [0.23392948974344324]
+setting: standardizew|rf
+iter 1 : [0.21221644477458432]
+setting: normalizeS|rf
+iter 2 : [0.22741557625278555]
+setting: minmaxx|rf
+iter 3 : [0.2338152105593966]
+setting: robusth|rf
+iter 4 : [0.22741557625278555]
+setting: maxabsC|rf
+iter 5 : [0.2333009542311868]
+setting: robustf|rf
+iter 6 : [0.23438660647962972]
+setting: minmaxH|rf
+iter 7 : [0.23404376892748985]
+setting: normalizep|rf
+iter 8 : [0.22770127421290212]
+setting: normalizeK|rf
+iter 9 : [0.22992971830181133]
+setting: robustL|rf
+iter 10 : [0.23004399748585794]
+setting: maxabsi|rf
+iter 11 : [0.21295925947088737]
+setting: minmaxu|rf
+iter 12 : [0.23170104565453403]
+setting: robustE|rf
+iter 13 : [0.2311296497343009]
+setting: robustj|rf
+iter 14 : [0.22650134278041253]
+setting: standardizeE|rf
+iter 15 : [0.23101537055025428]
+setting: maxabsv|rf
+iter 16 : [0.21250214273470086]
+setting: maxabsZ|rf
+iter 17 : [0.23078681218216102]
+setting: normalizec|rf
+iter 18 : [0.21244500314267756]
+setting: minmaxl|rf
+iter 19 : [0.2321010227986972]
+setting: minmaxE|rf
+iter 20 : [0.23078681218216102]
+setting: robustc|rf
+iter 21 : [0.21244500314267756]
+setting: robusto|rf
+iter 22 : [0.21244500314267756]
+setting: standardizeD|rf
+iter 23 : [0.23324381463916347]
+setting: robustR|rf
+iter 24 : [0.23238672075881378]
+setting: minmaxb|rf
+iter 25 : [0.21244500314267756]
+setting: maxabss|rf
+iter 26 : [0.23301525627107023]
+setting: minmaxa|rf
+iter 27 : [0.21158790926232787]
+setting: robusta|rf
+iter 28 : [0.2337580709673733]
+setting: minmaxi|rf
+iter 29 : [0.22752985543683218]
+{0: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 1: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 2: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 3: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 4: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 5: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 6: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 7: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 8: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 9: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 10: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 11: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 12: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 13: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 14: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 15: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 16: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 17: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 18: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 19: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 20: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 21: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 22: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 23: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 24: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 25: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 26: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 27: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 28: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 29: [0.23484372321581623, 0.23501514199188617, 0.21387349294326038, 0.2316439060625107, 0.23272955831095365, 0.23090109136620765, 0.2284440889092052, 0.23078681218216102, 0.23090109136620765, 0.21164504885435118, 0.212159305182561, 0.23261527912690702, 0.23398662933546654, 0.22924404319753158, 0.2346723044397463, 0.2328438374950003, 0.2333009542311868, 0.2113593508942346, 0.23358665219130337, 0.23392948974344324], 'settings': {0: ['robusto|rf', 'normalizeE|rf', 'minmaxF|rf', 'maxabsv|rf', 'minmaxS|rf', 'minmaxH|rf', 'minmaxu|rf', 'standardizeg|rf', 'maxabsy|rf', 'normalizel|rf', 'minmaxm|rf', 'minmaxA|rf', 'standardizep|rf', 'robustb|rf', 'robustD|rf', 'robustk|rf', 'minmaxN|rf', 'normalizeK|rf', 'normalizeL|rf', 'robustn|rf'], 1: ['normalizeG|rf', 'minmaxz|rf', 'robustf|rf', 'robustb|rf', 'minmaxD|rf', 'robustq|rf', 'minmaxC|rf', 'robustE|rf', 'standardizeT|rf', 'maxabsl|rf', 'standardizeb|rf', 'robustk|rf', 'robustG|rf', 'standardizev|rf', 'minmaxI|rf', 'minmaxL|rf', 'standardizef|rf', 'robustg|rf', 'maxabsg|rf', 'standardizew|rf'], 2: ['normalizew|rf', 'robustm|rf', 'robustl|rf', 'standardizei|rf', 'maxabsQ|rf', 'standardized|rf', 'normalizeU|rf', 'robustr|rf', 'robustV|rf', 'robustp|rf', 'standardizet|rf', 'normalizet|rf', 'standardizeQ|rf', 'minmaxy|rf', 'robustP|rf', 'robustq|rf', 'standardizeP|rf', 'maxabsf|rf', 'normalizer|rf', 'normalizeS|rf'], 3: ['maxabsP|rf', 'maxabsu|rf', 'maxabso|rf', 'robustE|rf', 'maxabsU|rf', 'robustz|rf', 'normalizez|rf', 'robustR|rf', 'standardizen|rf', 'standardizey|rf', 'standardizee|rf', 'robustF|rf', 'maxabsf|rf', 'maxabsm|rf', 'robustH|rf', 'robustz|rf', 'minmaxU|rf', 'standardizer|rf', 'robustZ|rf', 'minmaxx|rf'], 4: ['minmaxu|rf', 'standardizeg|rf', 'robustO|rf', 'standardizeS|rf', 'minmaxT|rf', 'normalizeK|rf', 'standardizeL|rf', 'robustp|rf', 'maxabsf|rf', 'standardizex|rf', 'maxabsT|rf', 'standardizec|rf', 'minmaxH|rf', 'normalizeT|rf', 'normalizel|rf', 'standardizec|rf', 'normalizeh|rf', 'robustf|rf', 'standardizen|rf', 'robusth|rf'], 5: ['maxabsJ|rf', 'normalizey|rf', 'standardizes|rf', 'minmaxS|rf', 'standardizec|rf', 'standardizem|rf', 'standardizez|rf', 'standardizer|rf', 'standardizev|rf', 'robustj|rf', 'standardized|rf', 'standardizek|rf', 'standardizeh|rf', 'maxabsf|rf', 'normalizex|rf', 'robustB|rf', 'robustG|rf', 'standardizeY|rf', 'standardizej|rf', 'maxabsC|rf'], 6: ['maxabsu|rf', 'robustg|rf', 'normalizev|rf', 'maxabsI|rf', 'minmaxx|rf', 'normalizeL|rf', 'normalizee|rf', 'minmaxA|rf', 'robustx|rf', 'minmaxr|rf', 'robustE|rf', 'robustc|rf', 'robustg|rf', 'maxabsK|rf', 'robustW|rf', 'normalizey|rf', 'normalizeE|rf', 'robuste|rf', 'maxabsh|rf', 'robustf|rf'], 7: ['maxabsT|rf', 'standardizeB|rf', 'minmaxB|rf', 'minmaxI|rf', 'minmaxo|rf', 'robusto|rf', 'minmaxI|rf', 'minmaxb|rf', 'normalizeu|rf', 'minmaxE|rf', 'normalizej|rf', 'standardizeD|rf', 'maxabsn|rf', 'minmaxq|rf', 'standardizer|rf', 'normalizeU|rf', 'normalizeP|rf', 'standardizeI|rf', 'maxabsj|rf', 'minmaxH|rf'], 8: ['maxabsL|rf', 'maxabsn|rf', 'maxabsO|rf', 'normalized|rf', 'maxabsz|rf', 'standardizeb|rf', 'minmaxL|rf', 'standardizes|rf', 'robustT|rf', 'minmaxD|rf', 'standardizec|rf', 'maxabsD|rf', 'maxabss|rf', 'maxabsq|rf', 'standardizew|rf', 'robustt|rf', 'maxabsM|rf', 'standardizen|rf', 'normalizeW|rf', 'normalizep|rf'], 9: ['standardizeb|rf', 'robustw|rf', 'maxabsV|rf', 'minmaxw|rf', 'maxabse|rf', 'standardizek|rf', 'maxabso|rf', 'standardizeu|rf', 'standardizeY|rf', 'robustG|rf', 'standardizek|rf', 'maxabsX|rf', 'minmaxM|rf', 'robustT|rf', 'minmaxY|rf', 'maxabsw|rf', 'normalizeS|rf', 'robustC|rf', 'robustk|rf', 'normalizeK|rf'], 10: ['robustU|rf', 'minmaxy|rf', 'normalizeo|rf', 'robustq|rf', 'robustm|rf', 'normalizeh|rf', 'maxabsR|rf', 'normalizeU|rf', 'minmaxX|rf', 'normalizee|rf', 'maxabsH|rf', 'robustv|rf', 'maxabsg|rf', 'normalizeS|rf', 'maxabsn|rf', 'robustX|rf', 'maxabsv|rf', 'normalizeo|rf', 'robustf|rf', 'robustL|rf'], 11: ['robustE|rf', 'minmaxe|rf', 'standardizek|rf', 'robustz|rf', 'standardizem|rf', 'standardizew|rf', 'normalized|rf', 'minmaxs|rf', 'minmaxw|rf', 'robustl|rf', 'maxabsY|rf', 'maxabsQ|rf', 'standardizeG|rf', 'standardizeq|rf', 'normalizev|rf', 'maxabsV|rf', 'minmaxO|rf', 'maxabsU|rf', 'minmaxI|rf', 'maxabsi|rf'], 12: ['standardizep|rf', 'standardizep|rf', 'normalizeu|rf', 'normalizeJ|rf', 'standardizei|rf', 'normalizeG|rf', 'robustq|rf', 'minmaxv|rf', 'maxabsv|rf', 'normalizeI|rf', 'normalizef|rf', 'minmaxM|rf', 'robustw|rf', 'minmaxl|rf', 'robustL|rf', 'maxabsJ|rf', 'maxabsF|rf', 'minmaxG|rf', 'minmaxl|rf', 'minmaxu|rf'], 13: ['maxabsD|rf', 'maxabsI|rf', 'maxabsB|rf', 'maxabsP|rf', 'robustf|rf', 'minmaxL|rf', 'robustR|rf', 'robustx|rf', 'robustU|rf', 'maxabsq|rf', 'standardizei|rf', 'minmaxH|rf', 'minmaxw|rf', 'robusts|rf', 'minmaxq|rf', 'normalizeZ|rf', 'minmaxy|rf', 'robustp|rf', 'robuste|rf', 'robustE|rf'], 14: ['minmaxS|rf', 'standardizex|rf', 'maxabsK|rf', 'minmaxv|rf', 'normalizeW|rf', 'standardizey|rf', 'standardized|rf', 'minmaxe|rf', 'standardizeG|rf', 'normalizeV|rf', 'normalizeU|rf', 'normalizeG|rf', 'minmaxr|rf', 'maxabsr|rf', 'standardizeK|rf', 'robustj|rf', 'standardizeF|rf', 'minmaxi|rf', 'maxabsB|rf', 'robustj|rf'], 15: ['normalizeD|rf', 'maxabsr|rf', 'maxabsU|rf', 'normalizef|rf', 'robustN|rf', 'normalizeZ|rf', 'standardizeA|rf', 'minmaxn|rf', 'normalizeR|rf', 'minmaxF|rf', 'standardizeG|rf', 'minmaxx|rf', 'maxabsk|rf', 'minmaxw|rf', 'maxabsD|rf', 'robustb|rf', 'normalizew|rf', 'robustw|rf', 'normalizet|rf', 'standardizeE|rf'], 16: ['robustx|rf', 'minmaxB|rf', 'minmaxk|rf', 'standardizeb|rf', 'robustj|rf', 'maxabsi|rf', 'robustK|rf', 'maxabsK|rf', 'minmaxS|rf', 'standardizec|rf', 'standardizeO|rf', 'standardizeS|rf', 'maxabsP|rf', 'maxabsn|rf', 'standardizem|rf', 'standardizea|rf', 'minmaxB|rf', 'minmaxj|rf', 'minmaxJ|rf', 'maxabsv|rf'], 17: ['minmaxY|rf', 'standardizeJ|rf', 'minmaxe|rf', 'maxabsU|rf', 'minmaxC|rf', 'minmaxd|rf', 'normalizen|rf', 'robusta|rf', 'maxabsh|rf', 'standardizeD|rf', 'normalizem|rf', 'minmaxT|rf', 'normalizea|rf', 'maxabsv|rf', 'standardizeO|rf', 'standardizep|rf', 'robustf|rf', 'maxabsn|rf', 'minmaxD|rf', 'maxabsZ|rf'], 18: ['maxabsB|rf', 'maxabsq|rf', 'standardizeG|rf', 'normalizeZ|rf', 'minmaxq|rf', 'normalizem|rf', 'normalizer|rf', 'minmaxH|rf', 'maxabsp|rf', 'standardizeZ|rf', 'robustX|rf', 'minmaxE|rf', 'normalizeY|rf', 'robustN|rf', 'minmaxd|rf', 'standardizef|rf', 'minmaxK|rf', 'standardizeo|rf', 'normalizeR|rf', 'normalizec|rf'], 19: ['robustz|rf', 'robustc|rf', 'robustM|rf', 'minmaxO|rf', 'normalizeS|rf', 'minmaxg|rf', 'standardizee|rf', 'minmaxd|rf', 'normalizeC|rf', 'robustr|rf', 'maxabso|rf', 'minmaxX|rf', 'standardizeH|rf', 'normalizej|rf', 'maxabsl|rf', 'minmaxU|rf', 'maxabsc|rf', 'minmaxx|rf', 'robustl|rf', 'minmaxl|rf'], 20: ['minmaxp|rf', 'standardizeY|rf', 'standardizev|rf', 'maxabsA|rf', 'maxabsj|rf', 'normalizez|rf', 'maxabsm|rf', 'normalizeO|rf', 'minmaxs|rf', 'maxabsC|rf', 'normalizeV|rf', 'minmaxs|rf', 'robustE|rf', 'standardizeX|rf', 'maxabsi|rf', 'standardized|rf', 'normalizeK|rf', 'maxabsw|rf', 'standardizeD|rf', 'minmaxE|rf'], 21: ['standardizez|rf', 'robusty|rf', 'minmaxb|rf', 'robustf|rf', 'normalizem|rf', 'normalizeA|rf', 'robustc|rf', 'minmaxU|rf', 'maxabsn|rf', 'minmaxd|rf', 'minmaxj|rf', 'normalizeE|rf', 'normalizep|rf', 'maxabso|rf', 'standardizeE|rf', 'normalizeS|rf', 'maxabsH|rf', 'normalizeY|rf', 'minmaxc|rf', 'robustc|rf'], 22: ['robustK|rf', 'maxabsM|rf', 'maxabsN|rf', 'maxabso|rf', 'robustW|rf', 'robustA|rf', 'maxabsu|rf', 'normalizeX|rf', 'robustj|rf', 'normalizeL|rf', 'normalizea|rf', 'robustC|rf', 'robustL|rf', 'maxabsy|rf', 'minmaxA|rf', 'minmaxy|rf', 'maxabsh|rf', 'minmaxA|rf', 'normalizeB|rf', 'robusto|rf'], 23: ['maxabsW|rf', 'normalizeW|rf', 'maxabsT|rf', 'robustP|rf', 'robustZ|rf', 'minmaxa|rf', 'minmaxs|rf', 'normalizeF|rf', 'maxabsj|rf', 'normalizew|rf', 'robustI|rf', 'maxabsC|rf', 'maxabsJ|rf', 'robustv|rf', 'minmaxS|rf', 'robusty|rf', 'minmaxj|rf', 'robustl|rf', 'maxabsU|rf', 'standardizeD|rf'], 24: ['minmaxG|rf', 'robustt|rf', 'robustm|rf', 'maxabsM|rf', 'normalizel|rf', 'maxabsZ|rf', 'maxabsS|rf', 'normalizeV|rf', 'standardizeK|rf', 'robustn|rf', 'minmaxa|rf', 'minmaxg|rf', 'normalizeO|rf', 'robusth|rf', 'maxabsL|rf', 'standardizeC|rf', 'robusto|rf', 'maxabsP|rf', 'minmaxX|rf', 'robustR|rf'], 25: ['standardizeO|rf', 'standardizeI|rf', 'maxabsf|rf', 'minmaxt|rf', 'minmaxi|rf', 'minmaxh|rf', 'robustW|rf', 'robustn|rf', 'maxabsY|rf', 'normalizeG|rf', 'maxabsJ|rf', 'standardizeT|rf', 'standardizeT|rf', 'maxabsG|rf', 'minmaxZ|rf', 'standardizen|rf', 'standardizeH|rf', 'robustE|rf', 'standardizel|rf', 'minmaxb|rf'], 26: ['minmaxQ|rf', 'standardizem|rf', 'standardizej|rf', 'maxabsg|rf', 'robustl|rf', 'normalizeu|rf', 'maxabsE|rf', 'standardizeE|rf', 'minmaxj|rf', 'maxabsP|rf', 'standardizew|rf', 'normalizeC|rf', 'minmaxZ|rf', 'minmaxF|rf', 'standardizej|rf', 'robustn|rf', 'minmaxf|rf', 'minmaxE|rf', 'maxabsk|rf', 'maxabss|rf'], 27: ['normalizen|rf', 'normalizeP|rf', 'standardizeW|rf', 'standardizey|rf', 'normalizes|rf', 'robustb|rf', 'normalizeI|rf', 'maxabsU|rf', 'robustC|rf', 'maxabsr|rf', 'minmaxn|rf', 'standardizeI|rf', 'normalizeF|rf', 'standardized|rf', 'standardizel|rf', 'standardizeH|rf', 'normalizex|rf', 'normalizeg|rf', 'normalizey|rf', 'minmaxa|rf'], 28: ['maxabss|rf', 'minmaxA|rf', 'normalizew|rf', 'normalizem|rf', 'standardizeh|rf', 'standardizes|rf', 'normalizew|rf', 'robustJ|rf', 'minmaxx|rf', 'robustM|rf', 'normalizeA|rf', 'robustq|rf', 'maxabso|rf', 'normalizet|rf', 'robustp|rf', 'robuste|rf', 'robustS|rf', 'normalizeu|rf', 'robusti|rf', 'robusta|rf'], 29: ['robustJ|rf', 'minmaxI|rf', 'maxabsm|rf', 'normalizeR|rf', 'normalizeE|rf', 'normalizeq|rf', 'maxabsz|rf', 'minmaxE|rf', 'maxabsL|rf', 'robustz|rf', 'minmaxI|rf', 'standardizeF|rf', 'standardizeF|rf', 'standardizer|rf', 'robustT|rf', 'minmaxm|rf', 'normalized|rf', 'robustS|rf', 'robustC|rf', 'minmaxi|rf']}}
