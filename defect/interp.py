@@ -8,4 +8,6 @@ for file in files:
     interp = DODGEInterpreter(
         files=[f'./ghost-v2-log/{file}'], metrics=['f1', 'pd', 'prec'])
     res = interp.interpret()
-    print(round(np.median(res[file]['f1']), 3) * 100)
+    print(round(np.median(res[file]['f1']), 3) * 100, end='\t')
+    print(round(np.median(res[file]['pd']), 3) * 100, end='\t')
+    print(round(np.median(res[file]['prec']), 3) * 100)
